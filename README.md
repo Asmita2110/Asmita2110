@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asmita2110
-- 👀 I’m interested in Machine Learning and MLOPS.
-- 🌱 I’m currently learning various projects on machine learning.
+- 👀 I’m interested in Machine Learning, Deep Learning,DLOPS,MLOPS,Computer Vision.
+- 🌱 I’m currently learning various projects on machine learning and Computer Vision.
 - 💞️ I’m looking to collaborate on any project which provides an oppurtunity to learn.
 - 📫 You can reach me at m22cs059@iitj.ac.in ...
 
